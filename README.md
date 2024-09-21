@@ -1,2 +1,2 @@
 # Amazon-clone
-amazon clone web page
+preview - https://rohithakur10.github.io/Amazon-clone/
